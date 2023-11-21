@@ -1,0 +1,42 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font-family:Arial, Helvetica, sans-serif
+  
+}
+
+main {
+  margin-top: 80px;
+  min-height: 650px;
+  margin-bottom: 10px;
+}
+
+
+
+
+.error-block::first-letter {
+  text-transform: capitalize;
+  
+}
+
+header{
+  
+    width: 100%;
+
+    box-shadow: 0px 2px 10px rgb(223, 223, 223);
+}
+
+
+
+
+
+.navbar-light .navbar-nav .nav-link{
+  color: rgb(44, 44, 44);
+  font-size: 20px;
+ 
+  
+  
+}
+.dropdown-item {
+  font-size: 20px;
+}
+

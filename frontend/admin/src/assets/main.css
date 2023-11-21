@@ -1,0 +1,16 @@
+#nameShope {
+    padding-left: 30px;
+}
+
+#logout{
+    color: #FFFFFF8C;
+    background-color: #212529;
+    border: none;
+    margin-top: 7px;
+    margin-right: 10px;
+}
+
+.headerI {
+    box-sizing: border-box;
+    margin: 0;
+  }
